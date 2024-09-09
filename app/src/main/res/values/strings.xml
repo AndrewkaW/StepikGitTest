@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StepikGitTest</string>
+    <string name="test_gitflow">Тестовый гитфлоу</string>
 </resources>
